@@ -2,6 +2,8 @@
 
 This is a simple gradient generator built using ReactJS.
 
+[Preview](https://rakeshnayak360.github.io/gradient-generator/build/ "Preview")
+
 ### Installation
 - Clone the repo
 - Navigate to the folder
