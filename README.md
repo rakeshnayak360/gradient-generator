@@ -2,6 +2,12 @@
 
 This is a simple gradient generator built using ReactJS.
 
+### Installation
+- Clone the repo
+- Navigate to the folder
+- Run npm install
+- Run npm start
+
 # Cutomize
 You can customize the color and the angle of gradient in Components -> modules -> GradientBox.js
 
